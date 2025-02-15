@@ -3,7 +3,7 @@ Proyecto sistema CRUD con MongoDB y Autenticación de Usuarios
 
 ¡Bienvenido!
 
-¿Qué hace?
+# ¿Qué hace?
 
 Este proyecto te permite gestionar tus tareas de manera eficiente. Puedes agregar, ver, actualizar y eliminar tareas, y compartirlas con otros usuarios. ¡Es como tener un asistente personal!
 Funcionalidades Principales:
@@ -13,7 +13,7 @@ Funcionalidades Principales:
     Categorías de Tareas: Organiza las tareas en categorías como trabajo, personal y urgente.
     Autenticación Segura: Mantén seguros tus datos mediante un sistema de inicio de sesión utilizando JWT.
 
-Tecnologías Utilizadas
+# Tecnologías Utilizadas
 
     JavaScript (con Node.js y Express)
     MongoDB
